@@ -1,2 +1,2 @@
 # Ideal-Diesel-cycle-Simulator-using-MATLAB
-In this project I have used MATLAB to simulate the ideal diesel cycle based on end user driven data.
+In this project I have used MATLAB to simulate the ideal diesel cycle based on end user driven data. I have obtained the efficiency, Torque and net work output for the diesel cycle based on the parameter values that the user will enter. One can also understand the influence that the compression ratio, cut off ratio and stroke length have on the efficiency of the cycle.
